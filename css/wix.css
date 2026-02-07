@@ -1,0 +1,42 @@
+.bigdiv {
+    background-color: silver; 
+    height: 2770px; 
+    position: relative;
+}
+.rio-image{
+    width:100%;
+}
+.div-rhc{
+    display: flex; gap: 170px; margin-top: -800px; margin-left: 382.5px;
+}
+.a1{ color: rgb(21, 22, 22)
+    
+}
+.a2{
+    color: rgb(18, 18, 19)
+}
+.a3{
+    color: rgb(3, 3, 3)
+}
+@media (width<500px){
+    .bigdiv {
+    background-color: silver; 
+    height: 2770px; 
+    position: relative;}
+    .rio-image{
+    width:300px;}
+    .div-rhc{
+    display: flex; flex-direction: column; gap: 10px; margin-top: -185px; margin-left: 250px;
+}
+.a1{ color: white;
+    
+}
+.a2{
+    color:  white;}
+.a3{
+    color: white;
+}
+
+}
+
+    

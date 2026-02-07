@@ -1,0 +1,551 @@
+ @media (width>700px){
+   .clint-big-div{ background-color:rgb(226, 246, 246);}
+.ddp{
+    display: flex;
+}
+.p-clint1{
+    font-size:50px;
+    font-weight: bolder;
+     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+     margin-top: -20px;
+}
+.clint-image{
+    height:650px; 
+    width:550px;
+    margin-top: -30px;
+}
+.links-div{ margin-left: 600px;
+ font-size:xx-large;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p-clint-2{ font-size:40px;
+    font-weight: bolder;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-left: 400px;
+}
+.clint-a1{
+    color: black;
+}
+.clint-button1{
+    color:black; margin-top: 20px;
+     background-color: rgb(222, 254, 254); 
+    border-color: rgb(13, 20, 20); font-size:30px; 
+font-family: 'Gill Sans', 'Gill Sans MT',      Calibri, 'Trebuchet MS', sans-serif; 
+    border-style:none; 
+    text-decoration:underline;
+}
+.clint-button2{
+    color:black;
+     background-color: rgb(222, 254, 254);
+      border-color: rgb(13, 20, 20); 
+      font-size:30px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     border-style: none;
+     text-decoration: underline;
+}
+.clint-button3{
+    color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:30px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.p-clint3{
+    font-size:50px; 
+     font-weight: bolder; 
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+     margin-left: 100px; margin-right: 500px;
+}
+.p-clint4{
+    font-size: xx-large; 
+    margin-left: 670px;
+     margin-right: 200px;
+}
+.clint-button4{
+    margin-left: 500px;
+    color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:25px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      height: 60px;
+      border-radius: 15px;
+      border-style:none;
+      margin-top: 10px;
+      font-weight: bold;
+      position: absolute; 
+      position: sticky; 
+      top: 0%; bottom: 100%;
+
+}
+.middle-div{ display: flex; margin-left: 550px;
+}
+.year-div{
+}
+.pclint-24{
+    margin-top: 35px;
+}
+.pclint-23{
+margin-top: 90px;
+}
+.pclint-07{
+    margin-top: 140px;
+}
+.pclint-16{
+    margin-top: 138px;
+}
+.pclint-207{
+    margin-top: 140px;
+}
+.pclint-19{
+    margin-top: 146px;
+}
+.pclint-03{
+    margin-top: 145px;
+}
+.pclint-217{
+    margin-top: 140px;
+}
+.p-clint6{
+    margin-top: 60px;
+}
+.p-clint7{
+    margin-top: 110px;
+}
+.p-clint8{
+    margin-top: 150px;
+}
+.p-clint9{
+    margin-top: 150px;
+}
+.p-clint10{
+    margin-top: 120px;
+}
+.p-clint11{
+    margin-top: 120px;
+}
+.p-clint12{
+    margin-top: 102px;
+}
+.clint-button5{
+    margin-left: 720px;
+    color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(222, 254, 254); 
+     font-size:15px;
+      font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+      border-style:hidden;
+      font-weight: bold;
+      border-radius: 15px;
+      height: 45px;
+      margin-top: -90px;
+ }
+ .p-clint13{
+    font-size: x-large; 
+    margin-left: 570px;
+     margin-right: 200px;
+ }
+ .clint-button6{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:30px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button6{
+    font-size: x-large;
+}
+.clint-button7{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:x-large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button8{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:x-large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button9{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:x-large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button10{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:x-large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button11{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:x-large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.pclint-14{
+    font-size: 50px; font-weight: bolder; margin-left: 570px;
+}
+.pclint-15{
+    margin-left: 570px;
+    font-size: x-large;
+}
+.emoji-div{
+    margin-left: 570px;
+}
+ .pclint-30{
+    font-size: 20px;
+    font-weight: bold;
+ }
+ .pclint-41{
+    font-size: 23px;
+font-weight:bold; 
+margin-left: 570px;
+}
+.div-2-logo{
+    display: flex;
+    gap: 10px;
+}
+.spotify-logo{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+.apple-logo{
+     width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+.music-1{
+    margin-left:-550px;
+    margin-top: 240px;
+    width: 200px;
+    height: 29px;
+}
+.baby-pic{
+    margin-left: 450px;
+    width: 1000px;
+    border-radius: 30px;
+    border-style:double;
+    border-color:blueviolet;
+    height: 400px;
+}
+.pclint-42{
+    display: flex;
+    gap: 50px;
+   margin-left: 900px;
+   color:black; margin-top: 20px; 
+    border-color: rgb(13, 20, 20); font-size:20px; 
+font-family: 'Gill Sans', 'Gill Sans MT',      Calibri, 'Trebuchet MS', sans-serif; 
+    border-style:none;
+}
+.pclint-43{
+    font-size: large;
+    font-weight: bold;
+    background-color: white;
+    color:rgb(10, 1, 1);
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+    border-style:double;
+    border-color:blueviolet;
+    text-align:center;
+    scroll-behavior: smooth;
+}
+.music-div{
+    display: flex;
+    }
+.p-balcom{
+    font-size: 20px;
+    font-weight: bold;
+margin-left: 750px;
+margin-top: 10px;
+font-family:'Times New Roman', Times, serif;
+}
+.p-balcom-1{
+    color: black;
+    margin-top: -2px;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+}
+}
+@media(width<700px){
+    .clint-big-div{
+        background-color:rgb(226, 246, 246);
+
+    }
+.ddp{
+    display: flex;
+}
+.p-clint1{
+    font-size:26.5px;
+    font-weight: bold;
+     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.clint-image{
+    height:250px; 
+    width:250px;}
+.links-div{ margin-left: 200px;
+ font-size:x-large;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p-clint-2{ font-size:15px;
+    font-weight: bold;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-left: 200px;
+} 
+.clint-a1{
+    color: black;
+}
+.clint-button1{
+    color:black; margin-top: 10px;
+     background-color: rgb(222, 254, 254); 
+    border-color: rgb(13, 20, 20); font-size:23px; 
+font-family: 'Gill Sans', 'Gill Sans MT',      Calibri, 'Trebuchet MS', sans-serif; 
+    border-style:none; 
+    text-decoration:underline;
+}
+.clint-button2{
+    color:black;
+     background-color: rgb(222, 254, 254);
+      border-color: rgb(13, 20, 20); 
+      font-size:23px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     border-style: none;
+     text-decoration: underline;
+
+}
+.clint-button3{
+    color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}.p-clint3{
+    font-size:23px; 
+     font-weight: bolder; 
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+     margin-left:50px; margin-right: 200px;
+}
+.p-clint4{
+    font-size: large; 
+    margin-left: 202px;
+     margin-right: 50px;
+}
+.clint-button4{
+    margin-left: 200px;
+    color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none;
+      margin-top: 60px;
+      font-weight: bold;
+      position: absolute; 
+      position: sticky; 
+      top: 0%; bottom: 100%;
+}
+.middle-div{ display: flex; margin-left: 20px;
+}
+.pclint-23{
+margin-top: 60px;
+}
+.pclint-07{
+    margin-top: 97px;
+}
+.pclint-16{
+    margin-top: 102px;
+    font-size: -5px;
+}
+.pclint-207{
+    margin-top: 100px;
+}
+.pclint-19{
+    margin-top: 102px;
+}
+.pclint-03{
+    margin-top: 102px;
+}
+.pclint-211{
+    margin-top: 97px;
+}
+.p-clint6{
+    margin-top: 7px;
+}
+.p-clint7{
+    margin-top: 40px;
+}
+.p-clint8{
+    margin-top: 90px;
+}
+.p-clint9{
+    margin-top: 100px;
+}
+.p-clint10{
+    margin-top: 60px;
+}
+.p-clint11{
+    margin-top: 50px;
+}
+.p-clint12{
+    margin-top: 65px;
+}
+.line-pic{
+    width: 90px;
+}
+.pclint-24{
+    margin-top: 26px;
+}
+.clint-button5{
+    margin-left: 130px;
+    color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(222, 254, 254); 
+     font-size:14px;
+      font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+      border-style:groove;
+      font-weight: bold;
+      border-radius: 5px;
+      border-width: 10px;
+      margin-top: -5px;
+ }
+ .p-clint13{
+    font-size: 23px; 
+    margin-left: 170px;
+     margin-right: 50px;
+ }
+ .clint-button6{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button6{
+    font-size: x-large;
+    
+}
+.clint-button7{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button8{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button9{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button10{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.clint-button11{
+     color:black; 
+    background-color: rgb(222, 254, 254);
+     border-color: rgb(13, 20, 20); 
+     font-size:23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-style:none; text-decoration:underline;
+}
+.pclint-14{
+    font-size: 27px; font-weight: bolder; margin-left: 200px;
+}
+.pclint-15{
+    margin-left: 169px;
+    font-size: 23px;
+    
+}
+.emoji-div{
+    margin-left: 175px;
+}
+ .pclint-30{
+    font-size: 22px;
+    font-weight: bold;
+ }
+ .pclint-41{
+    font-size: 23px;
+font-weight:bold; 
+margin-left: 200px;
+}
+.div-2-logo{
+    display: flex;
+    gap: 6px;
+}
+.spotify-logo{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+}
+.apple-logo{
+     width: 30px;
+    height: 30px;
+    margin-top: 15px;
+}
+.music-1{
+    margin-left:-320px;
+    margin-top: 180px;
+    width: 180px;
+    height: 25px;
+}
+.baby-pic{
+    margin-left: 150px;
+    width: 300px;
+    border-radius: 30px;
+    border-style:double;
+    border-color:blueviolet;
+    height: 270px;
+}
+.pclint-42{
+    display: flex;
+    gap: 50px;
+   margin-left: 300px;
+}
+.pclint-43{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgb(123, 14, 14);
+    color:white;
+    border-radius: 10px;
+    width: 130px;
+    height: 270px;
+    
+}
+.music-div{
+    display: flex;
+    }
+}
